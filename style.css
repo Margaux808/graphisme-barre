@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#tooltip {
+    position: absolute;
+    opacity: 0;
+    background: #333;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
